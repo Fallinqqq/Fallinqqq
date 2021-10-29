@@ -1,4 +1,4 @@
-### Why, Hello there! 👋: :milky_way:
+### Why, Hello there! 👋 :milky_way:
 
    Here are some ideas of what's happening at the moment
 
