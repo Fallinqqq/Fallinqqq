@@ -1,6 +1,6 @@
 ### Why, Hello there! 👋: :milky_way:
 
-Here are some ideas to get you started:
+Here are some ideas of what's happening at the moment
 
 - :computer: I’m currently working on ... mini programs & scripts for my Python course
 - 🧠 I’m currently learning ... Python
