@@ -9,7 +9,6 @@
 - :woman: Pronouns: ... she/her
 - :sparkles: Fun fact: ... I have heterochromia eyes!
 
-<p align="center">
-<img width="200" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true)"
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true)
+
 
