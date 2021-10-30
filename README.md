@@ -1,4 +1,8 @@
-<h1 align="center">"https://i.pinimg.com/originals/9d/f5/2a/9df52a3aec306571d857441fa0f8cf83.gif":</h1>
+<div id=”mainDiv”>
+
+<img id=”centerdImage” src=”https://i.pinimg.com/originals/9d/f5/2a/9df52a3aec306571d857441fa0f8cf83.gif”><\img>
+
+<\div>
 
   <h2 align="center">Welcome to my Github!</h2>
    
