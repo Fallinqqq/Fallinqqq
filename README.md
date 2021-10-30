@@ -1,4 +1,4 @@
-<h1 align="center">Why, Hello there 👋 :milky_way:</h1>
+<h1 align="center">👋 :milky_way:</h1>
 
   <h2 align="center">Welcome to my Github!</h2>
    
