@@ -2,8 +2,7 @@
 
   <h2 align="center">Welcome to my Github!</h2>
    
-   
-   
+      
 - :computer: I’m currently working on ... mini programs & scripts for my Python course
 - 🧠 I’m currently learning ... Python
 - 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
