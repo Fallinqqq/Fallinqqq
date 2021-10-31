@@ -13,5 +13,5 @@
 <img align="left" src=https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true width="400" height="200"/>
      </a>
        <a href="https://github.com/Fallinqqq?tab=repositories">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true" width="400" height="200"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=tokyonight width="400" height="200"/>
 </div>
