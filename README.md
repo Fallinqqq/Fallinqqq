@@ -8,5 +8,5 @@
 - :woman: Pronouns: ... she/her
 - :sparkles: Fun fact: ... I have heterochromia eyes!
 
-<p align="center"> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true) </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fallinqqq&theme=tokyonight&show_icons=true)](https://github.com/Fallinqqq/github-readme-stats)
