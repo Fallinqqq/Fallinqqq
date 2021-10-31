@@ -13,6 +13,6 @@
 <img align="left" src=https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true
      </a>
        <a href="https://github.com/Fallinqqq?tab=repositories">
-<img align="bottom" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Fallinqqq&theme=tokyonight&show_icons=true)](https://github.com/Fallinqqq/github-readme-stats
+<img align="bottom" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Fallinqqq&theme=tokyonight&show_icons=true
      </a>
    </div>
