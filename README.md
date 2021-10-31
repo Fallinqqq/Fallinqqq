@@ -9,5 +9,5 @@
 - :sparkles: Fun fact: ... I have heterochromia eyes!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fallinqqq&thheme=tokyonight&show_icons=true)](https://github.com/Fallinqqq/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fallinqqq&theme=tokyonight&show_icons=true)](https://github.com/Fallinqqq/github-readme-stats)
 
