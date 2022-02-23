@@ -2,8 +2,8 @@
    <h2 align="center">Welcome to my Github!</h2>
    <h3 align="center">Here is a bit about what I am currently working on</h3>
    
-- :computer: I’m currently working on ... mini programs & scripts for my Python course
-- 🧠 I’m currently learning ... Python
+- :computer: I’m currently working on ... Learning JavaScript and creating web pages.
+- 🧠 I’m currently learning ... JavaScript
 - 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
 - :woman: Pronouns: ... she/her
 - :sparkles: Fun fact: ... I have heterochromia eyes!
