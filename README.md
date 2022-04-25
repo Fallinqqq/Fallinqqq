@@ -4,6 +4,8 @@
    <h4 align="center">:sparkles: "Keep going, because you did not come this far, JUST to come this far.":sparkles:</h4>
    </br>
    </br>
+   
+   
 - :computer: I’m currently working on ... Learning JavaScript and creating web pages.
 - 🧠 I’m currently learning ... JavaScript
 - 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
