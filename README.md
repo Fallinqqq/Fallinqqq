@@ -5,7 +5,7 @@
 - :computer: I’m currently working on ... Learning JavaScript and creating web pages.
 - 🧠 I’m currently learning ... JavaScript
 - 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
-- :woman: Pronouns: ... she/her
+- :information_desk_person: Pronouns: ... she/her
 - :grey_exclamation: Fun fact: ... I have heterochromia eyes!
 <div>
    <a href="https://github.com/Fallinqqq?tab=repositories">
