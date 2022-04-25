@@ -7,7 +7,7 @@
 - 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
 - :woman: Pronouns: ... she/her
 - :sparkles: Fun fact: ... I have heterochromia eyes!
-
+- :sparkling_heart: "Keep going, because you did not come this far, JUST to come this far.":sparkling_heart:
 <div>
    <a href="https://github.com/Fallinqqq?tab=repositories">
 <img align="center" src=https://github-readme-stats.vercel.app/api?username=Fallinqqq&theme=tokyonight&show_icons=true width="400" height="200"/>
