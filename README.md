@@ -1,10 +1,6 @@
    <h1 align ="center">👋 🌌</h1>
    <h2 align="center">Welcome to my Github!</h2>
    <h3 align="center">Here is a bit about what I am currently working on</h3>
-   <h4 align="center">:sparkles: "Keep going, because you did not come this far, JUST to come this far.":sparkles:</h4>
-   </br>
-   </br>
-   
    
 - :computer: I’m currently working on ... Learning JavaScript and creating web pages.
 - 🧠 I’m currently learning ... JavaScript
@@ -18,3 +14,4 @@
        <a href="https://github.com/Fallinqqq?tab=repositories">
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Fallinqqq&theme=tokyonight&show_icons=true width="400px" height="200px"/>
 </div>
+      <h4 align="center">:sparkles: "Keep going, because you did not come this far, JUST to come this far.":sparkles:</h4>
