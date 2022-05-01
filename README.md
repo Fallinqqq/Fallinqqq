@@ -15,4 +15,3 @@
 <img align="center" src=https://github-readme-stats.vercel.app/api/top-langs/?username=Fallinqqq&theme=tokyonight&show_icons=true width="400px" height="200px"/>
 </div>
       <h4 align="center">:sparkles: "Keep going, because you did not come this far, JUST to come this far.":sparkles:</h4>
-https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fnew-game-ahagon-umiko-programming-work-working-at-work-gif-13247664&psig=AOvVaw0PXO5nc3scKYLiaWyA07n0&ust=1651499225820000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCQgpm4vvcCFQAAAAAdAAAAABAZ>
