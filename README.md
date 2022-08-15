@@ -1,5 +1,5 @@
    <h1 align ="center"></h1>
-   <h2 align="center">Welcome to my Github!</h2>
+   <h2 align="center">:cherry_blossom:Welcome to my Github!:cherry_blossom:</h2>
    <h3 align="center">Here is a bit about what I am currently working on</h3>
    
 - :computer: I’m currently working on ... JavaScript course and making a Python game.
