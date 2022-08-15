@@ -2,7 +2,7 @@
    <h2 align="center">Welcome to my Github!</h2>
    <h3 align="center">Here is a bit about what I am currently working on</h3>
    
-- :computer: I’m currently working on ... JavaScript and creating web pages.
+- :computer: I’m currently working on ... JavaScript course and making a python game.
 - 🧠 I’m currently learning ... JavaScript
 - 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
 - :information_desk_person: Pronouns: ... she/her
