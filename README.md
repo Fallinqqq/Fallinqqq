@@ -26,5 +26,7 @@
 </div>
 
 
-
+<div>
 <h4 align="center">:sparkles: "Keep going, because you did not come this far, JUST to come this far.":sparkles:</h4>
+<img align="center" https://c.tenor.com/AlUkiGkR2j8AAAAC/new-game-ahagon-umiko-programming.gif/>
+</div>
