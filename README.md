@@ -24,4 +24,4 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-      <h4 align="center">:sparkles: "Keep going, because you did not come this far, JUST to come this far.":sparkles:</h4>
+<h4 align="center">:sparkles: "Keep going, because you did not come this far, JUST to come this far.":sparkles:</h4>
