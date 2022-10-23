@@ -2,11 +2,11 @@
    <h2 align="center">:cherry_blossom:Welcome to my Github!:cherry_blossom:</h2>
    <h3 align="center">Here is a bit about what I am currently working on</h3>
    
-- :computer: I’m currently working on ... JavaScript course and making a Python game.
+<p align="center">- :computer: I’m currently working on ... JavaScript course and making a Python game.
 - 🧠 I’m currently learning ... JavaScript
 - 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
 - :information_desk_person: Pronouns: ... she/her
-- :grey_exclamation: Fun fact: ... I have heterochromia eyes!
+- :grey_exclamation: Fun fact: ... I have heterochromia eyes!</p>
 
 
 <p align="center">
