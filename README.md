@@ -8,6 +8,7 @@
 - :information_desk_person: Pronouns: ... she/her
 - :grey_exclamation: Fun fact: ... I have heterochromia eyes!
 
+</br>
 
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -19,6 +20,7 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+</br>
 
 <div>
    <a href="https://github.com/Fallinqqq?tab=repositories">
