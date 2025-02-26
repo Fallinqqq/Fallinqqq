@@ -11,7 +11,13 @@
 </br>
 
 <p align="center">
-<a href="https://tse2.mm.bing.net/th?id=OIP.3VDKrtjNSIwdFhYyCTruKgHaHO&pid=Api"/></a>
+<a img src="https://tse2.mm.bing.net/th?id=OIP.3VDKrtjNSIwdFhYyCTruKgHaHO&pid=Api"></a>
+<a img src="https://tse3.mm.bing.net/th?id=OIP.FQ5kkNnY3n17HAWcRjpSeQHaHI&pid=Api"></a>
+<a img src="https://tse1.mm.bing.net/th?id=OIP.hB5i6ETpCoBuWFaOPA3prgHaHa&pid=Api"></a>
+<a img src="https://tse4.mm.bing.net/th?id=OIP.JEKb3vltxtalPhYda59hNAHaHO&pid=Api"></a>
+<a img src="https://tse3.mm.bing.net/th?id=OIP.IZizlXetwv4qO70rnVbTdAHaHa&pid=Api"></a>
+<a img src="https://tse3.mm.bing.net/th?id=OIP.IZizlXetwv4qO70rnVbTdAHaHa&pid=Api"></a>
+<a img src="https://tse4.mm.bing.net/th?id=OIP.Afqzpzg3LN65a7KNWMb--AHaHO&pid=Api"></a>
 <a href="https://tse3.mm.bing.net/th?id=OIP.FQ5kkNnY3n17HAWcRjpSeQHaHI&pid=Api"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
