@@ -4,7 +4,7 @@
   
 - :computer: I’m currently working on ... Working on my Web and Graphic Portfolio
 - 🧠 I’m currently learning ... JavaScript & React
-- 📫 How to reach me: ... https://www.linkedin.com/in/grace-foster-988515178/
+- 📫 How to reach me: ... https://www.linkedin.com/in/gracekfoster/
 - :information_desk_person: Pronouns: ... she/her
 - :grey_exclamation: Fun fact: ... I have heterochromia eyes!
 
